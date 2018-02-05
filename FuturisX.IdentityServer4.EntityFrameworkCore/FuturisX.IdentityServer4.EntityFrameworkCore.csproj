@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FuturisX.IdentityServer4\FuturisX.IdentityServer4.csproj" />
+    <ProjectReference Include="..\FuturisX.Storage.EntityFrameworkCore\FuturisX.Storage.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+</Project>

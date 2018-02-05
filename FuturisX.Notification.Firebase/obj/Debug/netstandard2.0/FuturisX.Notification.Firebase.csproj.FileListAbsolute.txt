@@ -1,0 +1,11 @@
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\bin\Debug\netstandard2.0\FuturisX.Notification.Firebase.deps.json
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\bin\Debug\netstandard2.0\FuturisX.Notification.Firebase.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\bin\Debug\netstandard2.0\FuturisX.Notification.Firebase.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\bin\Debug\netstandard2.0\FuturisX.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\bin\Debug\netstandard2.0\FuturisX.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\obj\Debug\netstandard2.0\FuturisX.Notification.Firebase.csprojResolveAssemblyReference.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\obj\Debug\netstandard2.0\FuturisX.Notification.Firebase.csproj.CoreCompileInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\obj\Debug\netstandard2.0\FuturisX.Notification.Firebase.AssemblyInfoInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\obj\Debug\netstandard2.0\FuturisX.Notification.Firebase.AssemblyInfo.cs
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\obj\Debug\netstandard2.0\FuturisX.Notification.Firebase.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Notification.Firebase\obj\Debug\netstandard2.0\FuturisX.Notification.Firebase.pdb

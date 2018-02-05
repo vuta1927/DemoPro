@@ -1,0 +1,9 @@
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Common\bin\Debug\netstandard2.0\FuturisX.Common.deps.json
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Common\bin\Debug\netstandard2.0\FuturisX.Common.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Common\bin\Debug\netstandard2.0\FuturisX.Common.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Common\obj\Debug\netstandard2.0\FuturisX.Common.csproj.CoreCompileInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Common\obj\Debug\netstandard2.0\FuturisX.Common.AssemblyInfoInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Common\obj\Debug\netstandard2.0\FuturisX.Common.AssemblyInfo.cs
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Common\obj\Debug\netstandard2.0\FuturisX.Common.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Common\obj\Debug\netstandard2.0\FuturisX.Common.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Common\obj\Debug\netstandard2.0\FuturisX.Common.csprojResolveAssemblyReference.cache

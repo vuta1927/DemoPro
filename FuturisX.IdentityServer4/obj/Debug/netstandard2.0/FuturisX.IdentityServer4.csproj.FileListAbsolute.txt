@@ -1,0 +1,11 @@
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\bin\Debug\netstandard2.0\FuturisX.IdentityServer4.deps.json
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\bin\Debug\netstandard2.0\FuturisX.IdentityServer4.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\bin\Debug\netstandard2.0\FuturisX.IdentityServer4.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\bin\Debug\netstandard2.0\FuturisX.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\bin\Debug\netstandard2.0\FuturisX.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.csproj.CoreCompileInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.AssemblyInfoInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.AssemblyInfo.cs
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.csprojResolveAssemblyReference.cache

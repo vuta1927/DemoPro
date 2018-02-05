@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RuntimeFrameworkVersion>2.0.5</RuntimeFrameworkVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.0.1" />
+    <PackageReference Include="Polly" Version="5.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary\myCore.csproj" />
+    <ProjectReference Include="..\FuturisX.AspNetCore\FuturisX.AspNetCore.csproj" />
+    <ProjectReference Include="..\FuturisX.Common\FuturisX.Common.csproj" />
+    <ProjectReference Include="..\FuturisX.IdentityServer4.EntityFrameworkCore\FuturisX.IdentityServer4.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\FuturisX.IdentityServer4\FuturisX.IdentityServer4.csproj" />
+    <ProjectReference Include="..\FuturisX.Storage.EntityFrameworkCore\FuturisX.Storage.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\FuturisX.Validation.DataAnnotations\FuturisX.Validation.DataAnnotations.csproj" />
+    <ProjectReference Include="..\FuturisX\FuturisX.csproj" />
+  </ItemGroup>
+
+</Project>

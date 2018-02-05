@@ -1,0 +1,11 @@
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\bin\Debug\netstandard2.0\FuturisX.Messaging.RabbitMq.deps.json
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\bin\Debug\netstandard2.0\FuturisX.Messaging.RabbitMq.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\bin\Debug\netstandard2.0\FuturisX.Messaging.RabbitMq.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\bin\Debug\netstandard2.0\FuturisX.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\bin\Debug\netstandard2.0\FuturisX.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\obj\Debug\netstandard2.0\FuturisX.Messaging.RabbitMq.csprojResolveAssemblyReference.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\obj\Debug\netstandard2.0\FuturisX.Messaging.RabbitMq.csproj.CoreCompileInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\obj\Debug\netstandard2.0\FuturisX.Messaging.RabbitMq.AssemblyInfoInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\obj\Debug\netstandard2.0\FuturisX.Messaging.RabbitMq.AssemblyInfo.cs
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\obj\Debug\netstandard2.0\FuturisX.Messaging.RabbitMq.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.RabbitMq\obj\Debug\netstandard2.0\FuturisX.Messaging.RabbitMq.pdb

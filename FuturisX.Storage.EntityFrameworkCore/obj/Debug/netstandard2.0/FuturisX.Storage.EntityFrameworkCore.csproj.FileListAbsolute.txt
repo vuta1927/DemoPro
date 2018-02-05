@@ -1,0 +1,11 @@
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\bin\Debug\netstandard2.0\FuturisX.Storage.EntityFrameworkCore.deps.json
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\bin\Debug\netstandard2.0\FuturisX.Storage.EntityFrameworkCore.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\bin\Debug\netstandard2.0\FuturisX.Storage.EntityFrameworkCore.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\bin\Debug\netstandard2.0\FuturisX.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\bin\Debug\netstandard2.0\FuturisX.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\obj\Debug\netstandard2.0\FuturisX.Storage.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\obj\Debug\netstandard2.0\FuturisX.Storage.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\obj\Debug\netstandard2.0\FuturisX.Storage.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\obj\Debug\netstandard2.0\FuturisX.Storage.EntityFrameworkCore.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\obj\Debug\netstandard2.0\FuturisX.Storage.EntityFrameworkCore.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Storage.EntityFrameworkCore\obj\Debug\netstandard2.0\FuturisX.Storage.EntityFrameworkCore.csprojResolveAssemblyReference.cache

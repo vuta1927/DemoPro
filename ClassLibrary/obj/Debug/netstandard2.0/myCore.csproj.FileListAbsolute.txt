@@ -1,0 +1,11 @@
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\bin\Debug\netstandard2.0\myCore.deps.json
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\bin\Debug\netstandard2.0\myCore.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\bin\Debug\netstandard2.0\myCore.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\bin\Debug\netstandard2.0\FuturisX.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\bin\Debug\netstandard2.0\FuturisX.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.csproj.CoreCompileInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.AssemblyInfoInputs.cache
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.AssemblyInfo.cs
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.dll
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.pdb
+C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.csprojResolveAssemblyReference.cache
