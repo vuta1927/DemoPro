@@ -9,3 +9,14 @@ C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Validation.DataAnnotations\obj\
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Validation.DataAnnotations\obj\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.dll
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Validation.DataAnnotations\obj\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.pdb
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Validation.DataAnnotations\obj\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.csprojResolveAssemblyReference.cache
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\bin\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.deps.json
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\bin\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.dll
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\bin\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.pdb
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\bin\Debug\netstandard2.0\FuturisX.dll
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\bin\Debug\netstandard2.0\FuturisX.pdb
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\obj\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.csprojResolveAssemblyReference.cache
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\obj\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.csproj.CoreCompileInputs.cache
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\obj\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.AssemblyInfoInputs.cache
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\obj\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.AssemblyInfo.cs
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\obj\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.dll
+D:\Projects\DemoPro\FuturisX.Validation.DataAnnotations\obj\Debug\netstandard2.0\FuturisX.Validation.DataAnnotations.pdb

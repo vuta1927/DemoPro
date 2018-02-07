@@ -4812,7 +4812,7 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "1x1ZSIN3iwzTBXKHSea1AW8cm4u4NYN5ZCb1fLp7jGA3bJXX7T5XlpSGHuYoVX0sOPKSkWVGJPv3Jq8BMv4DSA==",
+      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
@@ -6503,7 +6503,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "lu89VB6+Bv8Vj3tPXOGrwA2AxasT0dpzWa1UMuMRz6e5AIdT92l0AS5ztY+HEyzUBuxX3yHLE0Oi6/38cBa9GQ==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -8798,7 +8798,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anhvu\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -8807,17 +8807,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\DAL\\DAL.csproj",
+      "projectUniqueName": "D:\\Projects\\DemoPro\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\DAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\anhvu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\DAL\\obj\\",
+      "projectPath": "D:\\Projects\\DemoPro\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\DemoPro\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\anhvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8830,29 +8830,29 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\ClassLibrary\\myCore.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\ClassLibrary\\myCore.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Common\\FuturisX.Common.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Common\\FuturisX.Common.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.AspNetCore\\FuturisX.AspNetCore.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.AspNetCore\\FuturisX.AspNetCore.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj"
+            "D:\\Projects\\DemoPro\\ClassLibrary\\myCore.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\ClassLibrary\\myCore.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.AspNetCore\\FuturisX.AspNetCore.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.AspNetCore\\FuturisX.AspNetCore.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.Common\\FuturisX.Common.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Common\\FuturisX.Common.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.IdentityServer4.EntityFrameworkCore\\FuturisX.IdentityServer4.EntityFrameworkCore.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.IdentityServer4.EntityFrameworkCore\\FuturisX.IdentityServer4.EntityFrameworkCore.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.IdentityServer4\\FuturisX.IdentityServer4.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.IdentityServer4\\FuturisX.IdentityServer4.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.IdentityServer4\\FuturisX.IdentityServer4.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.IdentityServer4\\FuturisX.IdentityServer4.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.IdentityServer4.EntityFrameworkCore\\FuturisX.IdentityServer4.EntityFrameworkCore.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.IdentityServer4.EntityFrameworkCore\\FuturisX.IdentityServer4.EntityFrameworkCore.csproj"
             }
           }
         }
@@ -8866,27 +8866,27 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": {
-            "target": "Package",
-            "version": "[2.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "[2.0.1, )"
-          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "target": "Package",
-            "version": "[2.0.1, )"
+            "version": "2.0.1"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "target": "Package",
+            "version": "2.0.1"
+          },
+          "Polly": {
+            "target": "Package",
+            "version": "5.8.0"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.5, )",
+            "version": "2.0.5",
             "autoReferenced": true
           },
-          "Polly": {
+          "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "[5.8.0, )"
+            "version": "2.0.1"
           }
         },
         "imports": [

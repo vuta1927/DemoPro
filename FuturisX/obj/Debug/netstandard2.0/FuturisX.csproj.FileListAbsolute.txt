@@ -7,3 +7,12 @@ C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX\obj\Debug\netstandard2.0\Futuri
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX\obj\Debug\netstandard2.0\FuturisX.dll
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX\obj\Debug\netstandard2.0\FuturisX.pdb
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX\obj\Debug\netstandard2.0\FuturisX.csprojResolveAssemblyReference.cache
+D:\Projects\DemoPro\FuturisX\bin\Debug\netstandard2.0\FuturisX.deps.json
+D:\Projects\DemoPro\FuturisX\bin\Debug\netstandard2.0\FuturisX.dll
+D:\Projects\DemoPro\FuturisX\bin\Debug\netstandard2.0\FuturisX.pdb
+D:\Projects\DemoPro\FuturisX\obj\Debug\netstandard2.0\FuturisX.csprojResolveAssemblyReference.cache
+D:\Projects\DemoPro\FuturisX\obj\Debug\netstandard2.0\FuturisX.csproj.CoreCompileInputs.cache
+D:\Projects\DemoPro\FuturisX\obj\Debug\netstandard2.0\FuturisX.AssemblyInfoInputs.cache
+D:\Projects\DemoPro\FuturisX\obj\Debug\netstandard2.0\FuturisX.AssemblyInfo.cs
+D:\Projects\DemoPro\FuturisX\obj\Debug\netstandard2.0\FuturisX.dll
+D:\Projects\DemoPro\FuturisX\obj\Debug\netstandard2.0\FuturisX.pdb

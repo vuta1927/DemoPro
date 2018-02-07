@@ -9,3 +9,14 @@ C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.Azure\obj\Debug\netst
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.Azure\obj\Debug\netstandard2.0\FuturisX.Messaging.Azure.AssemblyInfo.cs
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.Azure\obj\Debug\netstandard2.0\FuturisX.Messaging.Azure.dll
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.Messaging.Azure\obj\Debug\netstandard2.0\FuturisX.Messaging.Azure.pdb
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\bin\Debug\netstandard2.0\FuturisX.Messaging.Azure.deps.json
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\bin\Debug\netstandard2.0\FuturisX.Messaging.Azure.dll
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\bin\Debug\netstandard2.0\FuturisX.Messaging.Azure.pdb
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\bin\Debug\netstandard2.0\FuturisX.dll
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\bin\Debug\netstandard2.0\FuturisX.pdb
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\obj\Debug\netstandard2.0\FuturisX.Messaging.Azure.csprojResolveAssemblyReference.cache
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\obj\Debug\netstandard2.0\FuturisX.Messaging.Azure.csproj.CoreCompileInputs.cache
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\obj\Debug\netstandard2.0\FuturisX.Messaging.Azure.AssemblyInfoInputs.cache
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\obj\Debug\netstandard2.0\FuturisX.Messaging.Azure.AssemblyInfo.cs
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\obj\Debug\netstandard2.0\FuturisX.Messaging.Azure.dll
+D:\Projects\DemoPro\FuturisX.Messaging.Azure\obj\Debug\netstandard2.0\FuturisX.Messaging.Azure.pdb

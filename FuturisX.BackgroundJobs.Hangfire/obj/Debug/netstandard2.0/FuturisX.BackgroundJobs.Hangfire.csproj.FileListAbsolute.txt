@@ -9,3 +9,14 @@ C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.BackgroundJobs.Hangfire\obj\Deb
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.BackgroundJobs.Hangfire\obj\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.AssemblyInfo.cs
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.BackgroundJobs.Hangfire\obj\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.dll
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.BackgroundJobs.Hangfire\obj\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.pdb
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\bin\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.deps.json
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\bin\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.dll
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\bin\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.pdb
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\bin\Debug\netstandard2.0\FuturisX.dll
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\bin\Debug\netstandard2.0\FuturisX.pdb
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\obj\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.csprojResolveAssemblyReference.cache
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\obj\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.csproj.CoreCompileInputs.cache
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\obj\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.AssemblyInfoInputs.cache
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\obj\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.AssemblyInfo.cs
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\obj\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.dll
+D:\Projects\DemoPro\FuturisX.BackgroundJobs.Hangfire\obj\Debug\netstandard2.0\FuturisX.BackgroundJobs.Hangfire.pdb

@@ -1,5 +1,6 @@
 import { Component, OnInit  } from '@angular/core';
-
+declare var jquery: any;
+declare var $: any;
 @Component({
     selector: 'app-user-list',
     templateUrl: './user-list.component.html'

@@ -9,3 +9,14 @@ C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\obj\Debug\netst
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.dll
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.pdb
 C:\Users\anhvu\Documents\GitHub\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.csprojResolveAssemblyReference.cache
+D:\Projects\DemoPro\FuturisX.IdentityServer4\bin\Debug\netstandard2.0\FuturisX.IdentityServer4.deps.json
+D:\Projects\DemoPro\FuturisX.IdentityServer4\bin\Debug\netstandard2.0\FuturisX.IdentityServer4.dll
+D:\Projects\DemoPro\FuturisX.IdentityServer4\bin\Debug\netstandard2.0\FuturisX.IdentityServer4.pdb
+D:\Projects\DemoPro\FuturisX.IdentityServer4\bin\Debug\netstandard2.0\FuturisX.dll
+D:\Projects\DemoPro\FuturisX.IdentityServer4\bin\Debug\netstandard2.0\FuturisX.pdb
+D:\Projects\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.csprojResolveAssemblyReference.cache
+D:\Projects\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.csproj.CoreCompileInputs.cache
+D:\Projects\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.AssemblyInfoInputs.cache
+D:\Projects\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.AssemblyInfo.cs
+D:\Projects\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.dll
+D:\Projects\DemoPro\FuturisX.IdentityServer4\obj\Debug\netstandard2.0\FuturisX.IdentityServer4.pdb

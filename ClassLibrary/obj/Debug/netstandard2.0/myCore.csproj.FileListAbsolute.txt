@@ -9,3 +9,14 @@ C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\my
 C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.dll
 C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.pdb
 C:\Users\anhvu\Documents\GitHub\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.csprojResolveAssemblyReference.cache
+D:\Projects\DemoPro\ClassLibrary\bin\Debug\netstandard2.0\myCore.deps.json
+D:\Projects\DemoPro\ClassLibrary\bin\Debug\netstandard2.0\myCore.dll
+D:\Projects\DemoPro\ClassLibrary\bin\Debug\netstandard2.0\myCore.pdb
+D:\Projects\DemoPro\ClassLibrary\bin\Debug\netstandard2.0\FuturisX.dll
+D:\Projects\DemoPro\ClassLibrary\bin\Debug\netstandard2.0\FuturisX.pdb
+D:\Projects\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.csprojResolveAssemblyReference.cache
+D:\Projects\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.csproj.CoreCompileInputs.cache
+D:\Projects\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.AssemblyInfoInputs.cache
+D:\Projects\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.AssemblyInfo.cs
+D:\Projects\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.dll
+D:\Projects\DemoPro\ClassLibrary\obj\Debug\netstandard2.0\myCore.pdb

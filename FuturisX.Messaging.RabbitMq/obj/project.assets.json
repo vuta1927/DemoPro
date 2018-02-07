@@ -195,7 +195,7 @@
           "ref/netstandard1.3/_._": {}
         }
       },
-      "NETStandard.Library/2.0.1": {
+      "NETStandard.Library/2.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -1846,10 +1846,10 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-    "NETStandard.Library/2.0.1": {
-      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+    "NETStandard.Library/2.0.0": {
+      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
       "type": "package",
-      "path": "netstandard.library/2.0.1",
+      "path": "netstandard.library/2.0.0",
       "files": [
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1970,7 +1970,7 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.1.nupkg.sha512",
+        "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -3554,7 +3554,7 @@
       ]
     },
     "System.Net.Security/4.3.0": {
-      "sha512": "aJgNmd0pxNZ0dPqmD9gXo79bWVV9gnlWOybE+sGMLtpLjNeb5YsN+g0F0y6Qsb4g+wbd4luFCHBPfB9HhmrbvA==",
+      "sha512": "IgJKNfALqw7JRWp5LMQ5SWHNKvXVz094U6wNE3c1i8bOkMQvgBL+MMQuNt3xl9Qg9iWpj3lFxPZEY6XHmROjMQ==",
       "type": "package",
       "path": "system.net.security/4.3.0",
       "files": [
@@ -5574,13 +5574,13 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "FuturisX >= 1.0.0",
-      "NETStandard.Library >= 2.0.1",
+      "NETStandard.Library >= 2.0.0",
       "Polly >= 5.8.0",
       "RabbitMQ.Client >= 5.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anhvu\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5589,17 +5589,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Messaging.RabbitMq\\FuturisX.Messaging.RabbitMq.csproj",
+      "projectUniqueName": "D:\\Projects\\DemoPro\\FuturisX.Messaging.RabbitMq\\FuturisX.Messaging.RabbitMq.csproj",
       "projectName": "FuturisX.Messaging.RabbitMq",
-      "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Messaging.RabbitMq\\FuturisX.Messaging.RabbitMq.csproj",
-      "packagesPath": "C:\\Users\\anhvu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Messaging.RabbitMq\\obj\\",
+      "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Messaging.RabbitMq\\FuturisX.Messaging.RabbitMq.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\DemoPro\\FuturisX.Messaging.RabbitMq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\anhvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5612,8 +5612,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj"
             }
           }
         }
@@ -5630,16 +5630,16 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.1, )",
+            "version": "2.0.0",
             "autoReferenced": true
           },
           "Polly": {
             "target": "Package",
-            "version": "[5.8.0, )"
+            "version": "5.8.0"
           },
           "RabbitMQ.Client": {
             "target": "Package",
-            "version": "[5.0.1, )"
+            "version": "5.0.1"
           }
         },
         "imports": [

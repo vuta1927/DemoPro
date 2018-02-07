@@ -6128,7 +6128,7 @@
     "Remotion.Linq/2.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-1x1ZSIN3iwzTBXKHSea1AW8cm4u4NYN5ZCb1fLp7jGA3bJXX7T5XlpSGHuYoVX0sOPKSkWVGJPv3Jq8BMv4DSA==",
+      "sha512": "sha512-IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
       "path": "remotion.linq/2.1.1",
       "hashPath": "remotion.linq.2.1.1.nupkg.sha512"
     },
@@ -6457,7 +6457,7 @@
     "System.Data.Common/4.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-naylF496qwOhpMtwvcFSuIkX1jH4FIhm0Sj1ZyyYc1iRDG2PHxX785UQQBOQeSr0Wxh7G6NvNBldhCOHXopPeA==",
+      "sha512": "sha512-epU8jeTe7aE7RqGHq9rZ8b0Q4Ah7DgubzHQblgZMSqgW1saW868WmooSyC5ywf8upLBkcVLDu93W9GPWUYsU2Q==",
       "path": "system.data.common/4.1.0",
       "hashPath": "system.data.common.4.1.0.nupkg.sha512"
     },
@@ -6611,7 +6611,7 @@
     "System.Linq.Queryable/4.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lu89VB6+Bv8Vj3tPXOGrwA2AxasT0dpzWa1UMuMRz6e5AIdT92l0AS5ztY+HEyzUBuxX3yHLE0Oi6/38cBa9GQ==",
+      "sha512": "sha512-Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "path": "system.linq.queryable/4.0.1",
       "hashPath": "system.linq.queryable.4.0.1.nupkg.sha512"
     },
@@ -6639,7 +6639,7 @@
     "System.Net.Security/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-aJgNmd0pxNZ0dPqmD9gXo79bWVV9gnlWOybE+sGMLtpLjNeb5YsN+g0F0y6Qsb4g+wbd4luFCHBPfB9HhmrbvA==",
+      "sha512": "sha512-IgJKNfALqw7JRWp5LMQ5SWHNKvXVz094U6wNE3c1i8bOkMQvgBL+MMQuNt3xl9Qg9iWpj3lFxPZEY6XHmROjMQ==",
       "path": "system.net.security/4.3.0",
       "hashPath": "system.net.security.4.3.0.nupkg.sha512"
     },
@@ -6653,7 +6653,7 @@
     "System.Net.WebHeaderCollection/4.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-8OgsDNSqhkdUYYgp6bscTk0czW2yrMXG3XOGRYgWSm9HdcV4E26Yp2DlnIC8hOx7FPklT1tE9cVP4vDzilhFfw==",
+      "sha512": "sha512-XX2TIAN+wBSAIV51BU2FvvXMdstUa8b0FBSZmDWjZdwUMmggQSifpTOZ5fNH20z9ZCg2fkV1L5SsZnpO2RQDRQ==",
       "path": "system.net.webheadercollection/4.0.1",
       "hashPath": "system.net.webheadercollection.4.0.1.nupkg.sha512"
     },

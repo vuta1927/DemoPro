@@ -8983,7 +8983,7 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "1x1ZSIN3iwzTBXKHSea1AW8cm4u4NYN5ZCb1fLp7jGA3bJXX7T5XlpSGHuYoVX0sOPKSkWVGJPv3Jq8BMv4DSA==",
+      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
@@ -10044,7 +10044,7 @@
       ]
     },
     "System.Data.Common/4.1.0": {
-      "sha512": "naylF496qwOhpMtwvcFSuIkX1jH4FIhm0Sj1ZyyYc1iRDG2PHxX785UQQBOQeSr0Wxh7G6NvNBldhCOHXopPeA==",
+      "sha512": "epU8jeTe7aE7RqGHq9rZ8b0Q4Ah7DgubzHQblgZMSqgW1saW868WmooSyC5ywf8upLBkcVLDu93W9GPWUYsU2Q==",
       "type": "package",
       "path": "system.data.common/4.1.0",
       "files": [
@@ -11199,7 +11199,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "lu89VB6+Bv8Vj3tPXOGrwA2AxasT0dpzWa1UMuMRz6e5AIdT92l0AS5ztY+HEyzUBuxX3yHLE0Oi6/38cBa9GQ==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -11453,7 +11453,7 @@
       ]
     },
     "System.Net.Security/4.3.0": {
-      "sha512": "aJgNmd0pxNZ0dPqmD9gXo79bWVV9gnlWOybE+sGMLtpLjNeb5YsN+g0F0y6Qsb4g+wbd4luFCHBPfB9HhmrbvA==",
+      "sha512": "IgJKNfALqw7JRWp5LMQ5SWHNKvXVz094U6wNE3c1i8bOkMQvgBL+MMQuNt3xl9Qg9iWpj3lFxPZEY6XHmROjMQ==",
       "type": "package",
       "path": "system.net.security/4.3.0",
       "files": [
@@ -11529,7 +11529,7 @@
       ]
     },
     "System.Net.WebHeaderCollection/4.0.1": {
-      "sha512": "8OgsDNSqhkdUYYgp6bscTk0czW2yrMXG3XOGRYgWSm9HdcV4E26Yp2DlnIC8hOx7FPklT1tE9cVP4vDzilhFfw==",
+      "sha512": "XX2TIAN+wBSAIV51BU2FvvXMdstUa8b0FBSZmDWjZdwUMmggQSifpTOZ5fNH20z9ZCg2fkV1L5SsZnpO2RQDRQ==",
       "type": "package",
       "path": "system.net.webheadercollection/4.0.1",
       "files": [
@@ -14419,7 +14419,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anhvu\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -14428,17 +14428,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\DemoPro\\DemoPro.csproj",
+      "projectUniqueName": "D:\\Projects\\DemoPro\\DemoPro\\DemoPro.csproj",
       "projectName": "DemoPro",
-      "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\DemoPro\\DemoPro.csproj",
-      "packagesPath": "C:\\Users\\anhvu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\DemoPro\\obj\\",
+      "projectPath": "D:\\Projects\\DemoPro\\DemoPro\\DemoPro.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\DemoPro\\DemoPro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\anhvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -14451,41 +14451,41 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Common\\FuturisX.Common.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Common\\FuturisX.Common.csproj"
+            "D:\\Projects\\DemoPro\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\DAL\\DAL.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\DAL\\DAL.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.BackgroundJobs.Hangfire\\FuturisX.BackgroundJobs.Hangfire.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.BackgroundJobs.Hangfire\\FuturisX.BackgroundJobs.Hangfire.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Messaging.RabbitMq\\FuturisX.Messaging.RabbitMq.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Messaging.RabbitMq\\FuturisX.Messaging.RabbitMq.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.Messaging.RabbitMq\\FuturisX.Messaging.RabbitMq.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Messaging.RabbitMq\\FuturisX.Messaging.RabbitMq.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Notification.Firebase\\FuturisX.Notification.Firebase.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Notification.Firebase\\FuturisX.Notification.Firebase.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.AspNetCore\\FuturisX.AspNetCore.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.AspNetCore\\FuturisX.AspNetCore.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.AspNetCore\\FuturisX.AspNetCore.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.AspNetCore\\FuturisX.AspNetCore.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Messaging.Azure\\FuturisX.Messaging.Azure.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Messaging.Azure\\FuturisX.Messaging.Azure.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.Messaging.Azure\\FuturisX.Messaging.Azure.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Messaging.Azure\\FuturisX.Messaging.Azure.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.Notification.Firebase\\FuturisX.Notification.Firebase.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Notification.Firebase\\FuturisX.Notification.Firebase.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.BackgroundJobs.Hangfire\\FuturisX.BackgroundJobs.Hangfire.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.BackgroundJobs.Hangfire\\FuturisX.BackgroundJobs.Hangfire.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.Common\\FuturisX.Common.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Common\\FuturisX.Common.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.IdentityServer4.EntityFrameworkCore\\FuturisX.IdentityServer4.EntityFrameworkCore.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.IdentityServer4.EntityFrameworkCore\\FuturisX.IdentityServer4.EntityFrameworkCore.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.IdentityServer4\\FuturisX.IdentityServer4.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.IdentityServer4\\FuturisX.IdentityServer4.csproj"
             },
-            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.IdentityServer4\\FuturisX.IdentityServer4.csproj": {
-              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.IdentityServer4\\FuturisX.IdentityServer4.csproj"
+            "D:\\Projects\\DemoPro\\FuturisX.IdentityServer4.EntityFrameworkCore\\FuturisX.IdentityServer4.EntityFrameworkCore.csproj": {
+              "projectPath": "D:\\Projects\\DemoPro\\FuturisX.IdentityServer4.EntityFrameworkCore\\FuturisX.IdentityServer4.EntityFrameworkCore.csproj"
             }
           }
         }
@@ -14499,30 +14499,30 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "IdentityServer4.AccessTokenValidation": {
-            "target": "Package",
-            "version": "[2.3.0, )"
-          },
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "[2.0.5, )"
-          },
-          "Microsoft.EntityFrameworkCore.Design": {
-            "target": "Package",
-            "version": "[2.0.1, )"
-          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "target": "Package",
-            "version": "[2.0.1, )"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "[2.0.0, )",
-            "autoReferenced": true
+            "version": "2.0.1"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
-            "version": "[2.0.2, )"
+            "version": "2.0.2"
+          },
+          "IdentityServer4.AccessTokenValidation": {
+            "target": "Package",
+            "version": "2.3.0"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "target": "Package",
+            "version": "2.0.1"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "2.0.0",
+            "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "2.0.5"
           }
         },
         "imports": [
