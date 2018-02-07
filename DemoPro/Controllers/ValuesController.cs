@@ -2,14 +2,32 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using FuturisX;
+using FuturisX.AspNetCore.Mvc.Authorization;
 using FuturisX.AspNetCore.Mvc.Controllers;
+using FuturisX.Data.Uow;
+using FuturisX.Notifications;
+using FuturisX.Security;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using myCore.Authorization;
 
 namespace DemoPro.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : AppController
     {
+        private readonly UserManager<User> _userManager;
+        private readonly SignInManager<User> _signInManager;
+        private readonly IUnitOfWorkManager _unitOfWorkManager;
+        private readonly INotificationService _notificationService;
+        public ValuesController(UserManager<User> userManager, SignInManager<User> signInManager, IUnitOfWorkManager unitOfWorkManager, INotificationService notificationService)
+        {
+            _userManager = userManager;
+            _signInManager = signInManager;
+            _unitOfWorkManager = unitOfWorkManager;
+            _notificationService = notificationService;
+        }
         // GET api/values
         [HttpGet]
         public IEnumerable<string> Get()
@@ -35,9 +53,9 @@ namespace DemoPro.Controllers
         public void Put(int id, [FromBody]string value)
         {
         }
-
         // DELETE api/values/5
         [HttpDelete("{id}")]
+        [AppAuthorize(DemoPermission.Administrator, DemoPermission.Page)]
         public void Delete(int id)
         {
         }
