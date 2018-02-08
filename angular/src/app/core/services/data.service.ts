@@ -4,6 +4,8 @@ import { Observable } from 'rxjs/Observable';
 import { Subject } from 'rxjs/Subject';
 
 import { LocationStrategy } from '@angular/common';
+import { IUser } from 'app/core/models/IUser';
+import { retry } from 'rxjs/operator/retry';
 
 @Injectable()
 export class DataService {
@@ -30,6 +32,9 @@ export class DataService {
     return this.http.delete<T>(url);
   }
 
+  private handleError(error: Response) {
+    return Observable.throw(error.statusText);
+  }
   private buildUrlSearchParams(params: any): HttpParams {
     const searchParams = new HttpParams();
     for (const key in params) {

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "a28827e06c9859becf691cd8f662184f54876973"
+    "signature": "b9378a7aa13c13d63ee0d10a39034d9af459f768"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,7 @@
       "FuturisX.Messaging.RabbitMq/1.0.0": {
         "dependencies": {
           "FuturisX": "1.0.0",
-          "NETStandard.Library": "2.0.0",
+          "NETStandard.Library": "2.0.1",
           "Polly": "5.8.0",
           "RabbitMQ.Client": "5.0.1"
         },
@@ -28,7 +28,7 @@
       },
       "MediatR/4.0.1": {
         "dependencies": {
-          "NETStandard.Library": "2.0.0"
+          "NETStandard.Library": "2.0.1"
         },
         "runtime": {
           "lib/netstandard1.1/MediatR.dll": {}
@@ -143,7 +143,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
@@ -151,7 +151,7 @@
       "Newtonsoft.Json/10.0.3": {
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
-          "NETStandard.Library": "2.0.0",
+          "NETStandard.Library": "2.0.1",
           "System.ComponentModel.TypeConverter": "4.3.0",
           "System.Runtime.Serialization.Formatters": "4.3.0",
           "System.Runtime.Serialization.Primitives": "4.3.0",
@@ -163,7 +163,7 @@
       },
       "Polly/5.8.0": {
         "dependencies": {
-          "NETStandard.Library": "2.0.0"
+          "NETStandard.Library": "2.0.1"
         },
         "runtime": {
           "lib/netstandard1.1/Polly.dll": {}
@@ -171,7 +171,7 @@
       },
       "RabbitMQ.Client/5.0.1": {
         "dependencies": {
-          "NETStandard.Library": "2.0.0",
+          "NETStandard.Library": "2.0.1",
           "System.Collections.Concurrent": "4.3.0",
           "System.Console": "4.3.0",
           "System.Diagnostics.Debug": "4.3.0",
@@ -1136,12 +1136,12 @@
       "path": "microsoft.win32.primitives/4.3.0",
       "hashPath": "microsoft.win32.primitives.4.3.0.nupkg.sha512"
     },
-    "NETStandard.Library/2.0.0": {
+    "NETStandard.Library/2.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
-      "path": "netstandard.library/2.0.0",
-      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+      "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+      "path": "netstandard.library/2.0.1",
+      "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
     },
     "Newtonsoft.Json/10.0.3": {
       "type": "package",
@@ -1447,7 +1447,7 @@
     "System.Net.Security/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-IgJKNfALqw7JRWp5LMQ5SWHNKvXVz094U6wNE3c1i8bOkMQvgBL+MMQuNt3xl9Qg9iWpj3lFxPZEY6XHmROjMQ==",
+      "sha512": "sha512-aJgNmd0pxNZ0dPqmD9gXo79bWVV9gnlWOybE+sGMLtpLjNeb5YsN+g0F0y6Qsb4g+wbd4luFCHBPfB9HhmrbvA==",
       "path": "system.net.security/4.3.0",
       "hashPath": "system.net.security.4.3.0.nupkg.sha512"
     },

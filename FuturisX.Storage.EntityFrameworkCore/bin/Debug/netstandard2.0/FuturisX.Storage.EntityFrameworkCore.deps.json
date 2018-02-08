@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "21aae93ba70a6a6ba64257e7fec3cc7322442269"
+    "signature": "9627affc0b75129759b97a17de75f1915ee6f8a6"
   },
   "compilationOptions": {},
   "targets": {
@@ -12,7 +12,7 @@
           "FuturisX": "1.0.0",
           "Microsoft.EntityFrameworkCore": "2.0.1",
           "Microsoft.EntityFrameworkCore.Relational": "2.0.1",
-          "NETStandard.Library": "2.0.0"
+          "NETStandard.Library": "2.0.1"
         },
         "runtime": {
           "FuturisX.Storage.EntityFrameworkCore.dll": {}
@@ -28,7 +28,7 @@
       },
       "MediatR/4.0.1": {
         "dependencies": {
-          "NETStandard.Library": "2.0.0"
+          "NETStandard.Library": "2.0.1"
         },
         "runtime": {
           "lib/netstandard1.1/MediatR.dll": {}
@@ -161,7 +161,7 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
@@ -169,7 +169,7 @@
       "Newtonsoft.Json/10.0.3": {
         "dependencies": {
           "Microsoft.CSharp": "4.4.0",
-          "NETStandard.Library": "2.0.0",
+          "NETStandard.Library": "2.0.1",
           "System.ComponentModel.TypeConverter": "4.3.0",
           "System.Runtime.Serialization.Formatters": "4.3.0",
           "System.Runtime.Serialization.Primitives": "4.3.0",
@@ -342,7 +342,7 @@
       },
       "System.Interactive.Async/3.1.1": {
         "dependencies": {
-          "NETStandard.Library": "2.0.0"
+          "NETStandard.Library": "2.0.1"
         },
         "runtime": {
           "lib/netstandard1.3/System.Interactive.Async.dll": {}
@@ -828,12 +828,12 @@
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
     },
-    "NETStandard.Library/2.0.0": {
+    "NETStandard.Library/2.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
-      "path": "netstandard.library/2.0.0",
-      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+      "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+      "path": "netstandard.library/2.0.1",
+      "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
     },
     "Newtonsoft.Json/10.0.3": {
       "type": "package",
@@ -845,7 +845,7 @@
     "Remotion.Linq/2.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
+      "sha512": "sha512-1x1ZSIN3iwzTBXKHSea1AW8cm4u4NYN5ZCb1fLp7jGA3bJXX7T5XlpSGHuYoVX0sOPKSkWVGJPv3Jq8BMv4DSA==",
       "path": "remotion.linq/2.1.1",
       "hashPath": "remotion.linq.2.1.1.nupkg.sha512"
     },
@@ -999,7 +999,7 @@
     "System.Linq.Queryable/4.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
+      "sha512": "sha512-lu89VB6+Bv8Vj3tPXOGrwA2AxasT0dpzWa1UMuMRz6e5AIdT92l0AS5ztY+HEyzUBuxX3yHLE0Oi6/38cBa9GQ==",
       "path": "system.linq.queryable/4.0.1",
       "hashPath": "system.linq.queryable.4.0.1.nupkg.sha512"
     },

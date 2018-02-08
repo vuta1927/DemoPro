@@ -301,7 +301,7 @@
           "ref/netstandard1.3/_._": {}
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -1965,10 +1965,10 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-    "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+    "NETStandard.Library/2.0.1": {
+      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "type": "package",
-      "path": "netstandard.library/2.0.0",
+      "path": "netstandard.library/2.0.1",
       "files": [
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -2089,7 +2089,7 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.0.nupkg.sha512",
+        "netstandard.library.2.0.1.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -3467,7 +3467,7 @@
       ]
     },
     "System.Net.WebHeaderCollection/4.0.1": {
-      "sha512": "XX2TIAN+wBSAIV51BU2FvvXMdstUa8b0FBSZmDWjZdwUMmggQSifpTOZ5fNH20z9ZCg2fkV1L5SsZnpO2RQDRQ==",
+      "sha512": "8OgsDNSqhkdUYYgp6bscTk0czW2yrMXG3XOGRYgWSm9HdcV4E26Yp2DlnIC8hOx7FPklT1tE9cVP4vDzilhFfw==",
       "type": "package",
       "path": "system.net.webheadercollection/4.0.1",
       "files": [
@@ -5582,12 +5582,12 @@
     ".NETStandard,Version=v2.0": [
       "FuturisX >= 1.0.0",
       "Microsoft.Azure.ServiceBus >= 2.0.0",
-      "NETStandard.Library >= 2.0.0",
+      "NETStandard.Library >= 2.0.1",
       "WindowsAzure.Storage >= 8.7.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\anhvu\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5596,17 +5596,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DemoPro\\FuturisX.Messaging.Azure\\FuturisX.Messaging.Azure.csproj",
+      "projectUniqueName": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Messaging.Azure\\FuturisX.Messaging.Azure.csproj",
       "projectName": "FuturisX.Messaging.Azure",
-      "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Messaging.Azure\\FuturisX.Messaging.Azure.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DemoPro\\FuturisX.Messaging.Azure\\obj\\",
+      "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Messaging.Azure\\FuturisX.Messaging.Azure.csproj",
+      "packagesPath": "C:\\Users\\anhvu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Messaging.Azure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anhvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5619,8 +5619,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj": {
-              "projectPath": "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj"
+            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj": {
+              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj"
             }
           }
         }
@@ -5634,19 +5634,19 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
+          "Microsoft.Azure.ServiceBus": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.1, )",
             "autoReferenced": true
           },
           "WindowsAzure.Storage": {
             "target": "Package",
-            "version": "8.7.0"
-          },
-          "Microsoft.Azure.ServiceBus": {
-            "target": "Package",
-            "version": "2.0.0"
+            "version": "[8.7.0, )"
           }
         },
         "imports": [

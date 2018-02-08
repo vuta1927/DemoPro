@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "c1e7f686b0cc92d6474ea291934df9cf6724df31"
+    "signature": "c11ac0e7638971cf550437af77f8cec1ed37176f"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,7 +11,7 @@
         "dependencies": {
           "FuturisX": "1.0.0",
           "Microsoft.Azure.ServiceBus": "2.0.0",
-          "NETStandard.Library": "2.0.0",
+          "NETStandard.Library": "2.0.1",
           "WindowsAzure.Storage": "8.7.0"
         },
         "runtime": {
@@ -28,7 +28,7 @@
       },
       "MediatR/4.0.1": {
         "dependencies": {
-          "NETStandard.Library": "2.0.0"
+          "NETStandard.Library": "2.0.1"
         },
         "runtime": {
           "lib/netstandard1.1/MediatR.dll": {}
@@ -233,7 +233,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
@@ -241,7 +241,7 @@
       "Newtonsoft.Json/10.0.3": {
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
-          "NETStandard.Library": "2.0.0",
+          "NETStandard.Library": "2.0.1",
           "System.ComponentModel.TypeConverter": "4.3.0",
           "System.Runtime.Serialization.Formatters": "4.3.0",
           "System.Runtime.Serialization.Primitives": "4.3.0",
@@ -1073,7 +1073,7 @@
       "WindowsAzure.Storage/8.7.0": {
         "dependencies": {
           "Microsoft.Data.OData": "5.8.2",
-          "NETStandard.Library": "2.0.0",
+          "NETStandard.Library": "2.0.1",
           "Newtonsoft.Json": "10.0.3",
           "System.Spatial": "5.8.2"
         },
@@ -1241,12 +1241,12 @@
       "path": "microsoft.win32.primitives/4.0.1",
       "hashPath": "microsoft.win32.primitives.4.0.1.nupkg.sha512"
     },
-    "NETStandard.Library/2.0.0": {
+    "NETStandard.Library/2.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
-      "path": "netstandard.library/2.0.0",
-      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+      "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+      "path": "netstandard.library/2.0.1",
+      "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
     },
     "Newtonsoft.Json/10.0.3": {
       "type": "package",
@@ -1440,7 +1440,7 @@
     "System.Net.WebHeaderCollection/4.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-XX2TIAN+wBSAIV51BU2FvvXMdstUa8b0FBSZmDWjZdwUMmggQSifpTOZ5fNH20z9ZCg2fkV1L5SsZnpO2RQDRQ==",
+      "sha512": "sha512-8OgsDNSqhkdUYYgp6bscTk0czW2yrMXG3XOGRYgWSm9HdcV4E26Yp2DlnIC8hOx7FPklT1tE9cVP4vDzilhFfw==",
       "path": "system.net.webheadercollection/4.0.1",
       "hashPath": "system.net.webheadercollection.4.0.1.nupkg.sha512"
     },

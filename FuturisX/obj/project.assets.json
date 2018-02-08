@@ -184,7 +184,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -1085,10 +1085,10 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+    "NETStandard.Library/2.0.1": {
+      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "type": "package",
-      "path": "netstandard.library/2.0.0",
+      "path": "netstandard.library/2.0.1",
       "files": [
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1209,7 +1209,7 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.0.nupkg.sha512",
+        "netstandard.library.2.0.1.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -3653,7 +3653,7 @@
       "Microsoft.Extensions.DependencyInjection >= 2.0.0",
       "Microsoft.Extensions.Logging >= 2.0.0",
       "Microsoft.Extensions.Primitives >= 2.0.0",
-      "NETStandard.Library >= 2.0.0",
+      "NETStandard.Library >= 2.0.1",
       "Newtonsoft.Json >= 10.0.3",
       "System.Collections.Immutable >= 1.4.0",
       "System.ComponentModel.Annotations >= 4.4.1",
@@ -3661,7 +3661,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\anhvu\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -3670,17 +3670,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj",
+      "projectUniqueName": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj",
       "projectName": "FuturisX",
-      "projectPath": "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DemoPro\\FuturisX\\obj\\",
+      "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj",
+      "packagesPath": "C:\\Users\\anhvu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anhvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3704,59 +3704,59 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
-          "MediatR.Extensions.Microsoft.DependencyInjection": {
+          "JetBrains.Annotations": {
             "target": "Package",
-            "version": "4.0.0"
+            "version": "[11.1.0, )"
           },
           "MediatR": {
             "target": "Package",
-            "version": "4.0.1"
+            "version": "[4.0.1, )"
           },
-          "Microsoft.Extensions.Caching.Abstractions": {
+          "MediatR.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
-            "version": "2.0.0"
-          },
-          "System.ComponentModel.Annotations": {
-            "target": "Package",
-            "version": "4.4.1"
+            "version": "[4.0.0, )"
           },
           "Microsoft.DotNet.PlatformAbstractions": {
             "target": "Package",
-            "version": "2.0.4"
+            "version": "[2.0.4, )"
+          },
+          "Microsoft.Extensions.Caching.Abstractions": {
+            "target": "Package",
+            "version": "[2.0.0, )"
           },
           "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
           },
-          "System.Reflection.Emit": {
+          "Microsoft.Extensions.Logging": {
             "target": "Package",
-            "version": "4.3.0"
-          },
-          "JetBrains.Annotations": {
-            "target": "Package",
-            "version": "11.1.0"
+            "version": "[2.0.0, )"
           },
           "Microsoft.Extensions.Primitives": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
           },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.1, )",
             "autoReferenced": true
-          },
-          "System.Collections.Immutable": {
-            "target": "Package",
-            "version": "1.4.0"
-          },
-          "Microsoft.Extensions.Logging": {
-            "target": "Package",
-            "version": "2.0.0"
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "10.0.3"
+            "version": "[10.0.3, )"
+          },
+          "System.Collections.Immutable": {
+            "target": "Package",
+            "version": "[1.4.0, )"
+          },
+          "System.ComponentModel.Annotations": {
+            "target": "Package",
+            "version": "[4.4.1, )"
+          },
+          "System.Reflection.Emit": {
+            "target": "Package",
+            "version": "[4.3.0, )"
           }
         },
         "imports": [

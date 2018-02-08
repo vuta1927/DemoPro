@@ -19,11 +19,11 @@
 //    [Route("api/register")]
 //    public class RegisterController : AppController
 //    {
-//        private readonly UserManager<FuturisX.Security.User> _userManager;
-//        private readonly SignInManager<FuturisX.Security.User> _signInManager;
+//        private readonly UserManager<User> _userManager;
+//        private readonly SignInManager<User> _signInManager;
 //        private readonly IUnitOfWorkManager _unitOfWorkManager;
 //        private readonly INotificationService _notificationService;
-//        public RegisterController(UserManager<FuturisX.Security.User> userManager, SignInManager<FuturisX.Security.User> signInManager, IUnitOfWorkManager unitOfWorkManager, INotificationService notificationService)
+//        public RegisterController(UserManager<User> userManager, SignInManager<User> signInManager, IUnitOfWorkManager unitOfWorkManager, INotificationService notificationService)
 //        {
 //            _userManager = userManager;
 //            _signInManager = signInManager;
@@ -53,7 +53,7 @@
 //                            Surname = model.lastName,
 //                            Email = model.email,
 //                            //PasswordHash = "AM4OLBpptxBYmM79lGOX9egzZk3vIQU3d/gFCJzaBjAPXzYIK3tQ2N7X4fcrHtElTw==" //123qwe
-//                        },model.password);
+//                        }, model.password);
 
 //                        await _unitOfWorkManager.Current.SaveChangesAsync();
 
@@ -70,7 +70,8 @@
 //                {
 //                    return BadRequest(ModelState);
 //                }
-//            }catch(Exception err)
+//            }
+//            catch (Exception err)
 //            {
 //                return BadRequest(err);
 //            }

@@ -1,34 +1,10 @@
 <div id="content">
-  <!--
-            The ID "widget-grid" will start to initialize all widgets below 
-            You do not need to use widgets if you dont want to. Simply remove 
-            the <section></section> and you can use wells or panels instead 
-            -->
-
-  <!-- widget grid -->
   <section id="widget-grid" class="">
-
-    <!-- row -->
     <div class="row">
-
       <!-- NEW WIDGET START -->
       <article class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sortable-grid ui-sortable">
-
         <!-- Widget ID (each widget will need unique ID)-->
         <div class="jarviswidget jarviswidget-sortable" id="wid-id-0" role="widget">
-          <!-- widget options:
-                            usage: <div class="jarviswidget" id="wid-id-0" data-widget-editbutton="false">
-                            
-                            data-widget-colorbutton="false"	
-                            data-widget-editbutton="false"
-                            data-widget-togglebutton="false"
-                            data-widget-deletebutton="false"
-                            data-widget-fullscreenbutton="false"
-                            data-widget-custombutton="false"
-                            data-widget-collapsed="true" 
-                            data-widget-sortable="false"
-                            
-                        -->
           <header role="heading">
             <span class="widget-icon">
               <i class="fa fa-users"></i>
@@ -40,26 +16,58 @@
             </span>
           </header>
 
-          <!-- widget div-->
           <div role="content">
+            <div class="widget-body no-padding">
+              <div class="lightest-gray-bg">
+                <div class="row" style="padding: 8px 12px">
+                  <div class="col-md-3">
+                    <a type="button" class="btn btn-xs btn-primary"><i class="fa fa-user-plus"> Add user</i></a>
+                  </div>
+                </div>
+                <div class="row" style="padding: 8px 12px">
 
-            <!-- widget edit box -->
-            <div class="jarviswidget-editbox">
-              <!-- This area used as dropdown edit box -->
-              <input class="form-control" type="text">
+                  <div class="col-md-6">
+                    <div class="input-group">
+                      <div class="icon-addon">
+                        <input type="text" id="search" class="form-control" [(ngModel)]="controls.filter" placeholder='Type to filter the table...'
+                          (keyup)='updateFilter($event)'>
+                        <label style="z-index: 22" for="search" class="fa fa-search" rel="tooltip" title="search"></label>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <select class="pull-right form-control " style="width: 70px;" (ngModelChange)="updatePageSize($event)" [(ngModel)]="controls.pageSize">
+                      <option>10</option>
+                      <option>20</option>
+                      <option>30</option>
+                      <option>50</option>
+                    </select>
+                  </div>
+                </div>
+                <ngx-datatable #table class="table-hover table-striped" [rows]="rows" [columnMode]="'force'"
+                  [headerHeight]="40" [footerHeight]="45" [rowHeight]="'auto'" [limit]="controls.pageSize" [cssClasses]="{
+                      sortAscending: 'fa fa-caret-up',
+                      sortDescending: 'fa fa-caret-down',
+                      pagerLeftArrow: 'fa  fa-angle-left',
+                      pagerRightArrow: 'fa fa-angle-right',
+                      pagerPrevious: 'fa fa-angle-double-left',
+                      pagerNext: 'fa fa-angle-double-right'
+                    }" [reorderable]="reorderable">
+                    
+                    <ngx-datatable-column [width]="30" frozenLeft="True">
+                        <ng-template ngx-datatable-cell-template let-rowIndex="rowIndex" let-value="value" let-row="row">
+                            <a><i class="fa fa-edit"></i></a>
+                            <a><i class="fa fa-trash"></i></a>
+                      </ng-template>
+                    </ngx-datatable-column>
+                    <ngx-datatable-column name="User Name" prop="username"></ngx-datatable-column>
+                    <ngx-datatable-column name="Email Address" prop="email"></ngx-datatable-column>
+                    <ngx-datatable-column name="First Name" prop="firstname"></ngx-datatable-column>
+                    <ngx-datatable-column name="Last Name" prop="lastname"></ngx-datatable-column>
+                    <ngx-datatable-column name="Is Active" prop="isActive"></ngx-datatable-column>
+                </ngx-datatable>
+              </div>
             </div>
-            <!-- end widget edit box -->
-
-            <!-- widget content -->
-            <div class="widget-body">
-
-              <!-- this is what the user will see -->
-
-              <table id="jqgrid"></table>
-              <div id="pjqgrid"></div>
-            </div>
-            <!-- end widget content -->
-
           </div>
           <!-- end widget div -->
 
@@ -70,7 +78,6 @@
       <!-- WIDGET END -->
 
     </div>
-
     <!-- end row -->
 
     <!-- row -->
@@ -90,5 +97,3 @@
   <!-- end widget grid -->
 
 </div>
-<!-- <script src="js/plugin/jqgrid/jquery.jqGrid.min.js"></script>
-<script src="js/plugin/jqgrid/grid.locale-en.min.js"></script> -->

@@ -12,8 +12,9 @@ using Microsoft.Extensions.Logging;
 
 namespace DemoPro.Controllers.User
 {
+    //[Authorize]
     [Produces("application/json")]
-    [Route("api/[controller]")]
+    [Route("api/users")]
     public class UserController : AppController
     {
         private readonly DemoProContext _ctx;

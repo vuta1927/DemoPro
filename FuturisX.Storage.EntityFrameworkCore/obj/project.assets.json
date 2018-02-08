@@ -225,7 +225,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -1258,10 +1258,10 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+    "NETStandard.Library/2.0.1": {
+      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "type": "package",
-      "path": "netstandard.library/2.0.0",
+      "path": "netstandard.library/2.0.1",
       "files": [
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1382,7 +1382,7 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.0.nupkg.sha512",
+        "netstandard.library.2.0.1.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -1414,7 +1414,7 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
+      "sha512": "1x1ZSIN3iwzTBXKHSea1AW8cm4u4NYN5ZCb1fLp7jGA3bJXX7T5XlpSGHuYoVX0sOPKSkWVGJPv3Jq8BMv4DSA==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
@@ -2494,7 +2494,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
+      "sha512": "lu89VB6+Bv8Vj3tPXOGrwA2AxasT0dpzWa1UMuMRz6e5AIdT92l0AS5ztY+HEyzUBuxX3yHLE0Oi6/38cBa9GQ==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -3951,11 +3951,11 @@
       "FuturisX >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 2.0.1",
       "Microsoft.EntityFrameworkCore.Relational >= 2.0.1",
-      "NETStandard.Library >= 2.0.0"
+      "NETStandard.Library >= 2.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\anhvu\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -3964,17 +3964,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj",
+      "projectUniqueName": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj",
       "projectName": "FuturisX.Storage.EntityFrameworkCore",
-      "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\obj\\",
+      "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\FuturisX.Storage.EntityFrameworkCore.csproj",
+      "packagesPath": "C:\\Users\\anhvu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Storage.EntityFrameworkCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anhvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3987,8 +3987,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj": {
-              "projectPath": "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj"
+            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj": {
+              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj"
             }
           }
         }
@@ -4004,17 +4004,17 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
-            "version": "2.0.1"
+            "version": "[2.0.1, )"
+          },
+          "Microsoft.EntityFrameworkCore.Relational": {
+            "target": "Package",
+            "version": "[2.0.1, )"
           },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.1, )",
             "autoReferenced": true
-          },
-          "Microsoft.EntityFrameworkCore.Relational": {
-            "target": "Package",
-            "version": "2.0.1"
           }
         },
         "imports": [

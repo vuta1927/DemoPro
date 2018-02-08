@@ -184,7 +184,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -1109,10 +1109,10 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+    "NETStandard.Library/2.0.1": {
+      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "type": "package",
-      "path": "netstandard.library/2.0.0",
+      "path": "netstandard.library/2.0.1",
       "files": [
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1233,7 +1233,7 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.0.nupkg.sha512",
+        "netstandard.library.2.0.1.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -3675,11 +3675,11 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "FuturisX >= 1.0.0",
-      "NETStandard.Library >= 2.0.0"
+      "NETStandard.Library >= 2.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\anhvu\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -3688,17 +3688,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj",
+      "projectUniqueName": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj",
       "projectName": "FuturisX.Validation.DataAnnotations",
-      "projectPath": "D:\\Projects\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DemoPro\\FuturisX.Validation.DataAnnotations\\obj\\",
+      "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Validation.DataAnnotations\\FuturisX.Validation.DataAnnotations.csproj",
+      "packagesPath": "C:\\Users\\anhvu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.Validation.DataAnnotations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anhvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3711,8 +3711,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj": {
-              "projectPath": "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj"
+            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj": {
+              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj"
             }
           }
         }
@@ -3729,7 +3729,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.1, )",
             "autoReferenced": true
           }
         },

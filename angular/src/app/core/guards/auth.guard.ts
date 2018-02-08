@@ -16,8 +16,9 @@ export class AuthGuard implements CanActivate, CanActivateChild, CanLoad {
     constructor(private authService: AuthService, private router: Router) {}
 
     public canActivate(route: ActivatedRouteSnapshot, state: RouterStateSnapshot): boolean {
-        const url: string = state.url;
-        return this.checkLogin(url);
+        // const url: string = state.url;
+        // return this.checkLogin(url);
+        return true;
     }
 
     public canActivateChild(route: ActivatedRouteSnapshot, state: RouterStateSnapshot): boolean {

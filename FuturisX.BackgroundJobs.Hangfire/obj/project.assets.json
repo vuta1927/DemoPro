@@ -434,7 +434,7 @@
           "ref/netstandard1.3/_._": {}
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -2440,10 +2440,10 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-    "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+    "NETStandard.Library/2.0.1": {
+      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "type": "package",
-      "path": "netstandard.library/2.0.0",
+      "path": "netstandard.library/2.0.1",
       "files": [
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -2564,7 +2564,7 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.0.nupkg.sha512",
+        "netstandard.library.2.0.1.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -2608,7 +2608,7 @@
       ]
     },
     "runtime.native.System.Data.SqlClient.sni/4.0.0": {
-      "sha512": "DcMVtYwugo1LOc9MVchInxlLNoFe/+21MsEQU9yIZX561chzxDlFDWowWF+Kc262PyD3eLkDab1JyJrs73Qtkg==",
+      "sha512": "Iwyk/saKY/Bu7tegBrRpvLTfw5cnIuYMddq2381bInm76b8vB1rDUw3SEu/Ozw6jiIw+zEy/WfjbJeRsWdh5Lg==",
       "type": "package",
       "path": "runtime.native.system.data.sqlclient.sni/4.0.0",
       "files": [
@@ -2631,7 +2631,7 @@
       ]
     },
     "runtime.native.System.Net.Security/4.0.1": {
-      "sha512": "Az6Ff6rZFb8nYGAaejFR6jr8ktt9f3e1Q/yKdw0pwHNTLaO/1eCAC9vzBoR9YAb0QeZD6fZXl1A9tRB5stpzXA==",
+      "sha512": "IUJDRJ4i4O271YiVB6seHdj9I2/Nv4ey01+FiFZBfhwqoqRtK+QKJANJlGiNYN79Lo/x4LUiGl3om1SPf8GiAg==",
       "type": "package",
       "path": "runtime.native.system.net.security/4.0.1",
       "files": [
@@ -2655,7 +2655,7 @@
       ]
     },
     "runtime.win7-x64.runtime.native.System.Data.SqlClient.sni/4.0.1": {
-      "sha512": "My20HZqJbDS4rWmdOcJ3TPf9iX6M/sTF2nBSUHBvfWp1iNip3eMS+K65oQgsLRxX6h21ic3YED06c2ye2sL7FQ==",
+      "sha512": "1LJVzlnmhlI6u5l+2W0UfXEtJr80JGC6TEyML04Cza4L4NVcHNnMmE7IjXvszG0wvHcWN8IezJHpWxx4rJjfaA==",
       "type": "package",
       "path": "runtime.win7-x64.runtime.native.system.data.sqlclient.sni/4.0.1",
       "files": [
@@ -2667,7 +2667,7 @@
       ]
     },
     "runtime.win7-x86.runtime.native.System.Data.SqlClient.sni/4.0.1": {
-      "sha512": "ykiYCf/0hIc0xm+g6bVX8nw9St5Ool+r4US+B+56Lv/GFnDG5G9BK4n7WkrwEpuWV3XjMn38oHgHOnNMzBVNKA==",
+      "sha512": "MFcbMDagqQS1OymfhKPj0lll9Z9WIk7JJkcyJABot/cEwC23grSZ7k5OUC1wPNkLo2HmLIpryiZ4sUnJmtYGOQ==",
       "type": "package",
       "path": "runtime.win7-x86.runtime.native.system.data.sqlclient.sni/4.0.1",
       "files": [
@@ -3189,7 +3189,7 @@
       ]
     },
     "System.Data.Common/4.1.0": {
-      "sha512": "epU8jeTe7aE7RqGHq9rZ8b0Q4Ah7DgubzHQblgZMSqgW1saW868WmooSyC5ywf8upLBkcVLDu93W9GPWUYsU2Q==",
+      "sha512": "naylF496qwOhpMtwvcFSuIkX1jH4FIhm0Sj1ZyyYc1iRDG2PHxX785UQQBOQeSr0Wxh7G6NvNBldhCOHXopPeA==",
       "type": "package",
       "path": "system.data.common/4.1.0",
       "files": [
@@ -3238,7 +3238,7 @@
       ]
     },
     "System.Data.SqlClient/4.1.0": {
-      "sha512": "yqMZgzzKHdG84QmA/PPZUORaoisfvztvFqyPs7dPafJhNxlS7STf9OMCFrP/tITQCqImkm1+X4d2oiWOT2oTKg==",
+      "sha512": "BMgMTPJuaEM94yk2mewiJM2433Ai8gzJMjGFRbzOQs8bPvTWUXsmvtBNYeR9fCszqe9wAOwYs6lMKfx10YRqnQ==",
       "type": "package",
       "path": "system.data.sqlclient/4.1.0",
       "files": [
@@ -3881,7 +3881,7 @@
       ]
     },
     "System.IO.Pipes/4.0.0": {
-      "sha512": "L9QVhk8hIEix5KNA0kW58Ha+Y1dNGqqqIhAaJkhcGCWeQzUmN0njzI7SG/XAazpMecboOdFFlH3pH/qbwXLJAg==",
+      "sha512": "e1iW9uVIVghfKZNUIpEngcOxhkDUXQGTiU5I+k+DkdI0mLSAm2ou9Ya7EnuI3qMgiXAvujTIOiSK0G5mKolQqA==",
       "type": "package",
       "path": "system.io.pipes/4.0.0",
       "files": [
@@ -4178,7 +4178,7 @@
       ]
     },
     "System.Net.Security/4.0.0": {
-      "sha512": "uM1JaYJciCc2w7efD6du0EpQ1n5ZQqE6/P43/aI4H5E59qvP+wt3l70KIUF/Ha7NaeXGoGNFPVO0MB80pVHk2g==",
+      "sha512": "NfyE/ffn8zlH5AZtMwGHPGtGObY3yA+57/NUUHBahf5VhNzMq/KtRqJqMlQ9+Tezs3FThjpVASrDlgNIvZ7WFQ==",
       "type": "package",
       "path": "system.net.security/4.0.0",
       "files": [
@@ -6106,7 +6106,7 @@
       ]
     },
     "System.Threading.ThreadPool/4.0.10": {
-      "sha512": "IMXgB5Vf/5Qw1kpoVgJMOvUO1l32aC+qC3OaIZjWJOjvcxuxNWOK2ZTWWYXfij22NHxT2j1yWX5vlAeQWld9vA==",
+      "sha512": "4/92f70NzgSBxTewhQawO/CWCNYLRq/P1vvuT+F1T5+IrPAnshyMRLp0YTbw7y+RtQtVEPx5tMW4AyWJlqCRIQ==",
       "type": "package",
       "path": "system.threading.threadpool/4.0.10",
       "files": [
@@ -6381,11 +6381,11 @@
     ".NETStandard,Version=v2.0": [
       "FuturisX >= 1.0.0",
       "HangFire >= 1.6.17",
-      "NETStandard.Library >= 2.0.0"
+      "NETStandard.Library >= 2.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\anhvu\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -6394,17 +6394,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DemoPro\\FuturisX.BackgroundJobs.Hangfire\\FuturisX.BackgroundJobs.Hangfire.csproj",
+      "projectUniqueName": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.BackgroundJobs.Hangfire\\FuturisX.BackgroundJobs.Hangfire.csproj",
       "projectName": "FuturisX.BackgroundJobs.Hangfire",
-      "projectPath": "D:\\Projects\\DemoPro\\FuturisX.BackgroundJobs.Hangfire\\FuturisX.BackgroundJobs.Hangfire.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DemoPro\\FuturisX.BackgroundJobs.Hangfire\\obj\\",
+      "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.BackgroundJobs.Hangfire\\FuturisX.BackgroundJobs.Hangfire.csproj",
+      "packagesPath": "C:\\Users\\anhvu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX.BackgroundJobs.Hangfire\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anhvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6417,8 +6417,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj": {
-              "projectPath": "D:\\Projects\\DemoPro\\FuturisX\\FuturisX.csproj"
+            "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj": {
+              "projectPath": "C:\\Users\\anhvu\\Documents\\GitHub\\DemoPro\\FuturisX\\FuturisX.csproj"
             }
           }
         }
@@ -6432,15 +6432,15 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
+          "HangFire": {
+            "target": "Package",
+            "version": "[1.6.17, )"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.1, )",
             "autoReferenced": true
-          },
-          "HangFire": {
-            "target": "Package",
-            "version": "1.6.17"
           }
         },
         "imports": [
