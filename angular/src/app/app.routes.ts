@@ -39,5 +39,19 @@ export const ROUTES: Routes = [
       },
     ]
   },
+  {
+    path: 'map',
+    component: MainLayoutComponent,
+    data: {pageTitle: 'Home'},
+    canActivate: [AuthGuard],
+    children:[
+      {
+        path: '',
+        loadChildren: 'app/+map/map.module#MapModule',
+        data: {pageTitle: 'Map'},
+        canActivate: [AuthGuard]
+      }
+    ]
+  },
   { path: '**', component: NotFoundComponent }
 ];
