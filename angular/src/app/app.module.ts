@@ -4,6 +4,8 @@ import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { RouterModule, PreloadAllModules } from '@angular/router';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { GenericTableModule } from '@angular-generic-table/core';
+
 /*
  * Platform and Environment providers/directives/pipes
  */
@@ -16,10 +18,10 @@ import { AppState, InternalStateType } from './app.service';
 
 import '../styles/styles.scss';
 
-import { AgmCoreModule } from '@agm/core';
 import { LayoutModule } from 'app/shared/layout';
 import { CoreModule } from './core';
 import { NotFoundComponent } from './not-found/not-found.component';
+
 // Application wide providers
 const APP_PROVIDERS = [
   ...APP_RESOLVER_PROVIDERS,
@@ -37,11 +39,10 @@ type StoreType = {
  * `AppModule` is the main entry point into Angular2's bootstraping process
  */
 @NgModule({
-  bootstrap: [AppComponent],
+  bootstrap: [ AppComponent ],
   declarations: [
     AppComponent,
     NotFoundComponent
-    
   ],
   /**
    * Import Angular's modules.
@@ -50,6 +51,7 @@ type StoreType = {
     BrowserModule,
     BrowserAnimationsModule,
     FormsModule,
+    GenericTableModule,
 
     CoreModule.forRoot(),
     LayoutModule,
@@ -58,6 +60,7 @@ type StoreType = {
       useHash: Boolean(history.pushState) === false,
       preloadingStrategy: PreloadAllModules
     }),
+
     /**
      * This section will import the `DevModuleModule` only in certain build types.
      * When the module is not imported it will get tree shaked.
@@ -73,4 +76,4 @@ type StoreType = {
     APP_PROVIDERS
   ]
 })
-export class AppModule { }
+export class AppModule {}

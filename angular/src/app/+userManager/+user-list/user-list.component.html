@@ -21,7 +21,9 @@
               <div class="lightest-gray-bg">
                 <div class="row" style="padding: 8px 12px">
                   <div class="col-md-3">
-                    <a type="button" class="btn btn-xs btn-primary"><i class="fa fa-user-plus"> Add user</i></a>
+                    <a type="button" class="btn btn-xs btn-primary">
+                      <i class="fa fa-user-plus"> Add user</i>
+                    </a>
                   </div>
                 </div>
                 <div class="row" style="padding: 8px 12px">
@@ -44,28 +46,44 @@
                     </select>
                   </div>
                 </div>
-                <ngx-datatable #table class="table-hover table-striped" [rows]="rows" [columnMode]="'force'"
-                  [headerHeight]="40" [footerHeight]="45" [rowHeight]="'auto'" [limit]="controls.pageSize" [cssClasses]="{
-                      sortAscending: 'fa fa-caret-up',
-                      sortDescending: 'fa fa-caret-down',
-                      pagerLeftArrow: 'fa  fa-angle-left',
-                      pagerRightArrow: 'fa fa-angle-right',
-                      pagerPrevious: 'fa fa-angle-double-left',
-                      pagerNext: 'fa fa-angle-double-right'
-                    }" [reorderable]="reorderable">
-                    
-                    <ngx-datatable-column [width]="30" frozenLeft="True">
-                        <ng-template ngx-datatable-cell-template let-rowIndex="rowIndex" let-value="value" let-row="row">
-                            <a><i class="fa fa-edit"></i></a>
-                            <a><i class="fa fa-trash"></i></a>
-                      </ng-template>
-                    </ngx-datatable-column>
-                    <ngx-datatable-column name="User Name" prop="username"></ngx-datatable-column>
-                    <ngx-datatable-column name="Email Address" prop="email"></ngx-datatable-column>
-                    <ngx-datatable-column name="First Name" prop="firstname"></ngx-datatable-column>
-                    <ngx-datatable-column name="Last Name" prop="lastname"></ngx-datatable-column>
-                    <ngx-datatable-column name="Is Active" prop="isActive"></ngx-datatable-column>
-                </ngx-datatable>
+                <div class="col-md-12">
+                  <sa-datatable [options]="{
+                    colReorder: true,
+                  ajax: 'assets/api/tables/datatables.standard.json',
+                  columns: [ {data: 'id'}, {data: 'name'}, {data: 'phone'}, {data: 'company'}, {data: 'zip'}, {data: 'city'}, {data: 'date'} ] }"
+                    paginationLength="true" tableClass="table table-striped table-bordered table-hover" width="100%">
+                    <thead>
+                      <tr>
+                        <th data-hide="phone">ID</th>
+                        <th data-class="expand">
+                          <i class="fa fa-fw fa-user text-muted hidden-md hidden-sm hidden-xs"></i>
+                          Name
+                        </th>
+                        <th data-hide="phone">
+                          <i class="fa fa-fw fa-phone text-muted hidden-md hidden-sm hidden-xs"></i>
+                          Phone
+                        </th>
+                        <th>Company</th>
+                        <th data-hide="phone,tablet">
+                          <i class="fa fa-fw fa-map-marker txt-color-blue hidden-md hidden-sm hidden-xs"></i>
+                          Zip
+                        </th>
+                        <th data-hide="phone,tablet">City</th>
+                        <th data-hide="phone,tablet">
+                          <i class="fa fa-fw fa-calendar txt-color-blue hidden-md hidden-sm hidden-xs"></i>
+                          Date
+                        </th>
+                      </tr>
+                    </thead>
+                  </sa-datatable>
+                  <!-- <generic-table #myTable [gtClasses]="'table-sm table-hover'" [gtSettings]="configObject.settings" [gtFields]="configObject.fields" [gtData]="configObject.data"></generic-table>
+                  <div class="text-center">
+                    <small>
+                      <gt-table-info class="form-text text-muted mb-2" [genericTable]="myTable"></gt-table-info>
+                    </small>
+                    <gt-pagination [gtClasses]="'pagination-sm justify-content-center'" [genericTable]="myTable"></gt-pagination>
+                  </div> -->
+                </div>
               </div>
             </div>
           </div>

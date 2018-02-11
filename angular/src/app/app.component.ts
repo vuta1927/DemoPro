@@ -9,7 +9,7 @@ import { filter, map, mergeMap } from 'rxjs/operators';
 
 import { AppState } from './app.service';
 import { TranslateService } from '@ngx-translate/core';
-import { I18nService } from './shared/i18n/i18n.service';
+// import { I18nService } from './shared/i18n/i18n.service';
 import { LoggerService } from './core/services/log/logger.service';
 
 import { environment } from '../environments/environment';
@@ -35,7 +35,7 @@ export class AppComponent implements OnInit {
     private router: Router,
     private activatedRoute: ActivatedRoute,
     private titleService: Title,
-    private i18nService: I18nService,
+    // private i18nService: I18nService,
     private logger: LoggerService,
     private oauthService: OAuthService
   ) {
@@ -45,7 +45,7 @@ export class AppComponent implements OnInit {
     }
 
     // Setup translations
-    this.i18nService.init(environment.defaultLanguage, languages);
+    // this.i18nService.init(environment.defaultLanguage, languages);
 
     const onNavigationEnd =
       this.router.events.pipe(filter((event) => event instanceof NavigationEnd));

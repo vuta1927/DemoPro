@@ -4,7 +4,10 @@ import { SharedModule } from 'app/shared/shared.module';
 import { routing } from './userManager.routing';
 import { UserListComponent } from './+user-list/user-list.component';
 import { RoleComponent } from './+role/role.component';
-import { NgxDatatableModule } from '@swimlane/ngx-datatable';
+
+// import { NgxDatatableModule } from '@swimlane/ngx-datatable';
+import { GenericTableModule } from '@angular-generic-table/core';
+
 @NgModule({
     declarations: [
       UserListComponent,
@@ -13,7 +16,7 @@ import { NgxDatatableModule } from '@swimlane/ngx-datatable';
     imports: [
         SharedModule,
         FormsModule,
-        NgxDatatableModule,
+        GenericTableModule,
         routing
     ]
 })
